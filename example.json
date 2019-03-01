@@ -1,0 +1,73 @@
+{
+  "message": "accurate",
+  "cod": "200",
+  "count": 3,
+  "list": [
+    {
+      "id": 3154578,
+      "name": "Best Sport Club",
+      "coord": {
+        "lat": 50.422222,
+        "lon": 30.537644
+      },
+      "services": {
+        "gym": true,
+        "fitness": true,
+        "sauna": false,
+        "massage": true,
+        "pool": false
+      },
+      "dt": 1524248100,
+      "placement": {
+        "floor": 1,
+        "square": 340,
+        "hall_quantity": 2,
+        "restroom_square": 40
+      }
+    },
+    {
+      "id": 3154578,
+      "name": "Underground",
+      "coord": {
+        "lat": 50.455841,
+        "lon": 30.595785
+      },
+      "services": {
+        "gym": true,
+        "fitness": flase,
+        "sauna": false,
+        "massage": false,
+        "pool": false
+      },
+      "dt": 1524288100,
+      "placement": {
+        "floor": -1,
+        "square": 400,
+        "hall_quantity": 5,
+        "restroom_square": 15
+      }
+    },
+    {
+      "id": 3154578,
+      "name": "Good Gym",
+      "coord": {
+        "lat": 50.398302,
+        "lon": 30.617005
+      },
+      "services": {
+        "gym": true,
+        "fitness": true,
+        "sauna": true,
+        "massage": true,
+        "pool": true
+      },
+      "dt": 1524154199,
+      "placement": {
+        "floor": 1,
+        "square": 2500,
+        "hall_quantity": 10,
+        "restroom_square": 200
+      }
+    }
+  ]
+}
