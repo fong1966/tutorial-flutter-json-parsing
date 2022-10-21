@@ -34,7 +34,7 @@
       },
       "services": {
         "gym": true,
-        "fitness": flase,
+        "fitness": false,
         "sauna": false,
         "massage": false,
         "pool": false
